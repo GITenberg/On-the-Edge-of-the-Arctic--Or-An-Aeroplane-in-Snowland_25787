@@ -23,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Harry_Lincoln_Sayler
     - http://www.gutenberg.org/ebooks/author/2211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25787#On-the-Edge-of-the-Arctic--Or-An-Aeroplane-in-Snowland
 gutenberg_issued: '2008-06-14'
 gutenberg_type: Text
 identifiers:
